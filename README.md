@@ -1,4 +1,4 @@
-<p align="center">Eu sou movido por tecnologia 💪. <br><br> Com grande experiência em dados e Business Intelligence, destaco-me na automação de projetos, especializando-me na criação de dashboards no Power BI, SQL, SSMS. Expert em configuração do ambiente Power BI, aplico práticas avançadas de UX e Storytelling. Também possuo habilidades em modelagem de dados em Python e execução de rotinas de ETL.</p>&nbsp;
+<p align="center">Eu sou movido por tecnologia 👨‍💻 <br><br> Com grande experiência em dados, destaco-me na automação de projetos, especializando-me na criação de dashboards no Power BI, SQL, SSMS. Expert em configuração do ambiente Power BI, aplico práticas avançadas de UX e Storytelling. Também possuo habilidades em modelagem de dados em Python e execução de rotinas de ETL.</p>&nbsp;
 
 <div>
   
