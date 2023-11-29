@@ -1,8 +1,11 @@
 <p align="center">Eu sou movido por tecnologia 💪. <br><br> Com vasta experiência em dados e Business Intelligence, destaco-me na automação de projetos, especializando-me na criação de dashboards no Power BI, SQL, SSMS. Expert em configuração do ambiente Power BI, aplico práticas avançadas de UX e Storytelling. Também possuo habilidades em modelagem de dados em Python e execução de rotinas de ETL.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Alysonleca&theme=radical&mode=weekly" />
- </div>
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Alysonleca&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alysonleca&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
  
  &nbsp;
  &nbsp;
