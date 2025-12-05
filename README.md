@@ -1,14 +1,14 @@
-#  Prazer, me chamo Alyson! 👨‍💻
+#  Hello there!! 👨‍💻
 
-**`Analista de Dados | Engenheiro de Dados`**
+**`Analytics Engineer | Data Engineer`**
 
-Sou analista de dados com vasta experiência em criação de pipelines, análise e visualização de dados, tendo atuado em empresas de grande porte nos setores siderúrgico, construção e varejo.
+Experienced Senior Analytics Engineer with nearly six years in the data space, delivering high-impact solutions across Finance, Retail, Construction, and Steel industries.
 
-Estou em constante aprimoramento tecnológico, buscando sempre utilizar as ferramentas de destaque no mercado, conforme as necessidades de cada projeto.
+I specialise in the modern data stack and have a strong track record of building reliable data products, optimising pipelines, and enabling data-driven decision-making at scale.
 
-Tenho como objetivo aprender continuamente novas tecnologias e aplicar soluções eficientes no universo dos dados.
+Currently working as a Senior Analytics Engineer, I lead and support key data initiatives using tools like Snowflake, dbt, SQL, Python, and cloud environments. I thrive on solving complex problems and transforming raw data into insights that truly matter.
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Some of tools ive worked
 
 <img 
     align="left" 
