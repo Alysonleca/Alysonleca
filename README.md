@@ -8,7 +8,7 @@ I specialise in the modern data stack and have a strong track record of building
 
 Currently working as a Senior Analytics Engineer, I lead and support key data initiatives using tools like Snowflake, dbt, SQL, Python, and cloud environments. I thrive on solving complex problems and transforming raw data into insights that truly matter.
 
-Snowflake • dbt • SQL • Python • PySpark • Power BI • Git • Azure • GCP • AWS • Databricks • Dagster • n8n • Docker • CI/CD • Power BI Embedded • Microsoft Fabric
+Stack: Snowflake • dbt • SQL • Python • PySpark • Power BI • Git • Azure • GCP • AWS • Databricks • Dagster • n8n • CI/CD • Microsoft Fabric
 
 ### 📊 Stats
 
