@@ -2,7 +2,7 @@
 
 **`Analytics Engineer | Data Engineer`**
 
-Experienced Senior Analytics Engineer with nearly six years in the data space, delivering high-impact solutions across Finance, Retail, Construction, and Steel industries.
+Experienced Senior Analytics Engineer with nearly six years in the data area, delivering high-impact solutions across Finance, Retail, Construction, and Steel industries.
 
 I specialise in the modern data stack and have a strong track record of building reliable data products, optimising pipelines, and enabling data-driven decision-making at scale.
 
